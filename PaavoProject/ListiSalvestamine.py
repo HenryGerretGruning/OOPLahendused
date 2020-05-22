@@ -1,2 +1,0 @@
-print("tere")
-print("hi")

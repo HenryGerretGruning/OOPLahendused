@@ -1,9 +1,8 @@
-
 #Paavo Projekt
 
 See programm võimaldab sorteerida ja paremini organiseerida oma vinüüliplaatide kogu.
 Programmi tegevus on kasutaja jaoks tehtud võimalikult kergeks, et kiirelt ja mugavalt leida vajalik informatsioon kiirelt!
----
+
 ## Funktsioonid ⚙️
 -✔️ Võimalus lisada kogusse uued laulud.
 -✔️ Võimalus kuvada tervet kogu nimekirjanda.
@@ -21,7 +20,7 @@ Programmi kasutamine on väga kerge. ✔️
   - **Jah** vastamise puhul on kasutajal võimalik otsida nimekirjast laulu märksõnade järgi.
 - Kui kõigile küsimustele vastata eitavalt, siis programm lõpetab töö ja väljastab "Ei soovinud midagi!" teate.
 ![alt text](https://i.imgur.com/dwdgzvX.png "Näidis: Kui vastata Ei")
----
+
 
 
 ## Projekti arendajad 🛠️

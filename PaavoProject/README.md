@@ -4,9 +4,9 @@ See programm võimaldab sorteerida ja paremini organiseerida oma vinüüliplaati
 Programmi tegevus on kasutaja jaoks tehtud võimalikult kergeks, et kiirelt ja mugavalt leida vajalik informatsioon kiirelt!
 
 ## Funktsioonid ⚙️
-✔️ Võimalus lisada kogusse uued laulud.
-✔️ Võimalus kuvada tervet kogu nimekirjanda.
-✔️ Võimalus otsida laulu nimekirjast.
+-✔️ Võimalus lisada kogusse uued laulud.
+-✔️ Võimalus kuvada tervet kogu nimekirjanda.
+-✔️ Võimalus otsida laulu nimekirjast.
 
 
 ## Kuidas kasutada programmi? ☝️

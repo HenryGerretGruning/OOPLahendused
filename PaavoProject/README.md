@@ -1,9 +1,9 @@
-# Paavo Projekt
+# 💿 Paavo Projekt 💿
 
 See programm võimaldab sorteerida ja paremini organiseerida oma vinüüliplaatide kogu.
 Programmi tegevus on kasutaja jaoks tehtud võimalikult kergeks, et kiirelt ja mugavalt leida vajalik informatsioon kiirelt!
 
-## Kuidas kasutada programmi? 📋
+## Kuidas kasutada programmi? ☝️
 Programmi kasutamine on väga kerge. ✔️
 - Käivita kood.py 
  - Kasuta __Thonny__ tarkvara või muud sarnast tarkvara, mis kasutab __Pythonit__. [Thonny tarkvara link](https://thonny.org/ "Thonny tarkvara") 
@@ -13,6 +13,7 @@ Programmi kasutamine on väga kerge. ✔️
 - Järgmisena küsib programm kasutajalt, kas kasutaja soovib otsida laulu nimekirjast.
   - **Jah** vastamise puhul on kasutajal võimalik otsida nimekirjast laulu märksõnade järgi.
 - Kui kõigile küsimustele vastata eitavalt, siis programm lõpetab töö ja väljastab "Ei soovinud midagi!" teate.
+![alt text](https://i.imgur.com/dwdgzvX.png "Näidis: Kui vastata Ei")
 
 ## Projekti arendajad 🛠️
 - Henry-Gerret Grüning / [GITHUB](https://github.com/HenryGerretGruning/OOPLahendused/tree/master/PaavoProject "Henry-Gerret Grüning Github") 

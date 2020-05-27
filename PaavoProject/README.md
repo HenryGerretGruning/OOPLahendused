@@ -1,4 +1,4 @@
-#Paavo Projekt
+# Paavo Projekt
 
 See programm võimaldab sorteerida ja paremini organiseerida oma vinüüliplaatide kogu.
 Programmi tegevus on kasutaja jaoks tehtud võimalikult kergeks, et kiirelt ja mugavalt leida vajalik informatsioon kiirelt!
@@ -21,7 +21,7 @@ Programmi kasutamine on väga kerge. ✔️
 - Kui kõigile küsimustele vastata eitavalt, siis programm lõpetab töö ja väljastab "Ei soovinud midagi!" teate.
 ![alt text](https://i.imgur.com/dwdgzvX.png "Näidis: Kui vastata Ei")
 
-
+---
 
 ## Projekti arendajad 🛠️
 - Henry-Gerret Grüning / [GITHUB](https://github.com/HenryGerretGruning/OOPLahendused/tree/master/PaavoProject "Henry-Gerret Grüning Github") 

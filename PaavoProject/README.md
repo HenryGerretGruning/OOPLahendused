@@ -11,14 +11,14 @@ Programmi tegevus on kasutaja jaoks tehtud võimalikult kergeks, et kiirelt ja m
 
 ## Kuidas kasutada programmi? ☝️
 Programmi kasutamine on väga kerge. ✔️
-- Käivita kood.py 
+1. Käivita kood.py 
  - Kasuta __Thonny__ tarkvara või muud sarnast tarkvara, mis kasutab __Pythonit__. [Thonny tarkvara link](https://thonny.org/ "Thonny tarkvara") 
-- Programm küsib kasutajalt, kas on soov lisada juurde vinüüliplaate?
+2. Programm küsib kasutajalt, kas on soov lisada juurde vinüüliplaate?
   - **Jah** vastamisel on võimalus lisada laule juurde kasutades programmi poolt pakutud vormistust
-- **Ei** vastamise puhul küsib programm kasutajalt, kas on soov näha vinüüliplaatide nimekirja.
-- Järgmisena küsib programm kasutajalt, kas kasutaja soovib otsida laulu nimekirjast.
+3. **Ei** vastamise puhul küsib programm kasutajalt, kas on soov näha vinüüliplaatide nimekirja.
+4. Järgmisena küsib programm kasutajalt, kas kasutaja soovib otsida laulu nimekirjast.
   - **Jah** vastamise puhul on kasutajal võimalik otsida nimekirjast laulu märksõnade järgi.
-- Kui kõigile küsimustele vastata eitavalt, siis programm lõpetab töö ja väljastab "Ei soovinud midagi!" teate.
+5. Kui kõigile küsimustele vastata eitavalt, siis programm lõpetab töö ja väljastab "Ei soovinud midagi!" teate.
 ![alt text](https://i.imgur.com/dwdgzvX.png "Näidis: Kui vastata Ei")
 
 ---

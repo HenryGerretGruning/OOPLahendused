@@ -4,3 +4,7 @@ See programm võimaldab Paavol sorteerida ja paremini organiseerida oma vinüül
 
 ## Kuidas kasutada programmi?
 
+## Projekti panustajad
+- Henry-Gerret Grüning
+- Anette Aguraiuja
+- Markkus Hipponen
